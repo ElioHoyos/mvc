@@ -20,7 +20,7 @@
 			margin:auto;
 			width:100%;
 			height:auto;
-			background:black;
+			background:blue;
 		}
 
 		nav ul{
